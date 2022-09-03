@@ -20,6 +20,8 @@ How to build/deploy the app:
 1. make sure you already have flutter sdk installed
 2. after you download the whole project folder, run "flutter pub get" inside it
 3. run "flutter build apk" to export an APK file. The location of the exported file will be written on the log after you run the command.
+
 OR
+
 You can use the app-release.apk file from the repository.
 
